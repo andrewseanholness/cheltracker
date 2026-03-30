@@ -1,0 +1,12 @@
+{
+  "name": "chel-tracker",
+  "version": "1.0.0",
+  "description": "An advanced EA Sports NHL 26 Pro Clubs Tracker and LeagueGaming Cross-Referencer.",
+  "type": "module",
+  "scripts": {
+    "start": "echo \"This project is meant to be deployed on Vercel.\""
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
